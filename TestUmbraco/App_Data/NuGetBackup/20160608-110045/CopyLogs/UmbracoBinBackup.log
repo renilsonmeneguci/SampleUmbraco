@@ -1,0 +1,41 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quarta-feira, 8 de junho de 2016 11:00:45
+   Origem : C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\TestUmbraco\bin\
+     Dest : C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\TestUmbraco\App_Data\NuGetBackup\20160608-110045\bin\
+
+    Arquivos: *.*
+	    
+  Op‡äes: *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                  11	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\TestUmbraco\bin\
+	  Novo Arquivo		  102912	Antlr3.Runtime.dll  0%  100%  
+	  Novo Arquivo		   45416	Microsoft.Web.Infrastructure.dll  0%  100%  
+	  Novo Arquivo		  502272	Newtonsoft.Json.dll  0%   26%   52%   78%  100%  
+	  Novo Arquivo		  139976	System.Web.Helpers.dll  0%   93%  100%  
+	  Novo Arquivo		  566472	System.Web.Mvc.dll  0%   46%   92%  100%  
+	  Novo Arquivo		   70864	System.Web.Optimization.dll  0%  100%  
+	  Novo Arquivo		  272072	System.Web.Razor.dll  0%   48%   96%  100%  
+	  Novo Arquivo		   41672	System.Web.WebPages.Deployment.dll  0%  100%  
+	  Novo Arquivo		  211656	System.Web.WebPages.dll  0%   61%  100%  
+	  Novo Arquivo		   39624	System.Web.WebPages.Razor.dll  0%  100%  
+	  Novo Arquivo		   1.2 m	WebGrease.dll  0%   20%   41%   61%   82%  100%  
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:         1         0         1         0         0         0
+ Arquivos:        11        11         0         0         0         0
+    Bytes:    3.11 m    3.11 m         0         0         0         0
+N.§ de Vezes:   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+Velocidade:            33706226 Bytes/s.
+Velocidade:            1928.685 MegaBytes/min.
+   Finalizado em: quarta-feira, 8 de junho de 2016 11:00:45
+

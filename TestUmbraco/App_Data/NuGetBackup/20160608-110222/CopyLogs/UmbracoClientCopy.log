@@ -1,0 +1,1233 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quarta-feira, 8 de junho de 2016 11:02:47
+   Origem : C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\
+     Dest : C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\TestUmbraco\Umbraco_Client\
+
+    Arquivos: *.*
+	    
+  Op‡äes: *.* /S /E /DCOPY:DA /COPY:DAT /IS /IT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\
+	                   7	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Application\
+	  Mais Recente		   13503	Extensions.js  0%  100%  
+	  Mais Recente		    2417	HistoryManager.js  0%  100%  
+	  Mais Recente		     839	NamespaceManager.js  0%  100%  
+	  Mais Recente		   21956	UmbracoApplicationActions.js  0%  100%  
+	  Mais Recente		   12833	UmbracoClientManager.js  0%  100%  
+	  Mais Recente		     374	UmbracoUtils.js  0%  100%  
+	  Mais Recente		    2060	UrlEncoder.js  0%  100%  
+	                  12	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Application\JQuery\
+	  Mais Recente		    2057	jquery-fieldselection.js  0%  100%  
+	  Mais Recente		   30336	jquery.autocomplete.js  0%  100%  
+	  Mais Recente		    5928	jquery.ba-bbq.min.js  0%  100%  
+	  Mais Recente		    4344	jquery.cookie.js  0%  100%  
+	  Mais Recente		    3178	jquery.hotkeys.js  0%  100%  
+	  Mais Recente		    6992	jquery.idle-timer.js  0%  100%  
+	  Mais Recente		    1304	jquery.metadata.min.js  0%  100%  
+	  Mais Recente		     165	jquery.noconflict-invoke.js  0%  100%  
+	  Mais Recente		    2749	jquery.unobtrusive-ajax.min.js  0%  100%  
+	  Mais Recente		   21496	jquery.validate.min.js  0%  100%  
+	  Mais Recente		    3745	jquery.validate.unobtrusive.min.js  0%  100%  
+	  Mais Recente		     255	VerticalAlign.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\CodeArea\
+	  Mais Recente		    6126	javascript.js  0%  100%  
+	  Mais Recente		     305	styles.css  0%  100%  
+	  Mais Recente		    6997	UmbracoEditor.js  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Colorpicker\
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Colorpicker\Css\
+	  Mais Recente		    3367	colorpicker.css  0%  100%  
+	                  26	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Colorpicker\Images\
+	  Mais Recente		      49	blank.gif  0%  100%  
+	  Mais Recente		    1897	colorpicker_background.png  0%  100%  
+	  Mais Recente		     532	colorpicker_hex.png  0%  100%  
+	  Mais Recente		     970	colorpicker_hsb_b.png  0%  100%  
+	  Mais Recente		    1012	colorpicker_hsb_h.png  0%  100%  
+	  Mais Recente		    1171	colorpicker_hsb_s.png  0%  100%  
+	  Mais Recente		      86	colorpicker_indic.gif  0%  100%  
+	  Mais Recente		   10355	colorpicker_overlay.png  0%  100%  
+	  Mais Recente		     970	colorpicker_rgb_b.png  0%  100%  
+	  Mais Recente		    1069	colorpicker_rgb_g.png  0%  100%  
+	  Mais Recente		    1066	colorpicker_rgb_r.png  0%  100%  
+	  Mais Recente		      78	colorpicker_select.gif  0%  100%  
+	  Mais Recente		     984	colorpicker_submit.png  0%  100%  
+	  Mais Recente		    1916	custom_background.png  0%  100%  
+	  Mais Recente		     562	custom_hex.png  0%  100%  
+	  Mais Recente		    1097	custom_hsb_b.png  0%  100%  
+	  Mais Recente		     970	custom_hsb_h.png  0%  100%  
+	  Mais Recente		    1168	custom_hsb_s.png  0%  100%  
+	  Mais Recente		      86	custom_indic.gif  0%  100%  
+	  Mais Recente		    1008	custom_rgb_b.png  0%  100%  
+	  Mais Recente		    1069	custom_rgb_g.png  0%  100%  
+	  Mais Recente		    1018	custom_rgb_r.png  0%  100%  
+	  Mais Recente		     997	custom_submit.png  0%  100%  
+	  Mais Recente		     506	select.png  0%  100%  
+	  Mais Recente		     518	select2.png  0%  100%  
+	  Mais Recente		     315	slider.png  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Colorpicker\Js\
+	  Mais Recente		   17175	colorpicker.js  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\ContextMenu\
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\ContextMenu\Css\
+	  Mais Recente		    4026	jquery.contextMenu.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\ContextMenu\Js\
+	  Mais Recente		   62773	jquery.contextMenu.js  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Datepicker\
+	                  10	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Datepicker\Aqua\
+	  Mais Recente		      89	active-bg.gif  0%  100%  
+	  Mais Recente		      85	dark-bg.gif  0%  100%  
+	  Mais Recente		      89	hover-bg.gif  0%  100%  
+	  Mais Recente		      49	menuarrow.gif  0%  100%  
+	  Mais Recente		     110	normal-bg.gif  0%  100%  
+	  Mais Recente		     110	rowhover-bg.gif  0%  100%  
+	  Mais Recente		     116	status-bg.gif  0%  100%  
+	  Mais Recente		    4941	theme.css  0%  100%  
+	  Mais Recente		     116	title-bg.gif  0%  100%  
+	  Mais Recente		    1122	today-bg.gif  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Datepicker\Images\
+	  Mais Recente		     674	calPickerIcon.png  0%  100%  
+	  Mais Recente		     633	calPickerIconHover.png  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\DateTimePicker\
+	  Mais Recente		   20315	datetimepicker.css  0%  100%  
+	  Mais Recente		   13311	timepicker.js  0%  100%  
+	  Mais Recente		    1939	umbDateTimePicker.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\DateTimePicker\Images\
+	  Mais Recente		    1110	calSprite.png  0%  100%  
+	  Mais Recente		    8673	ui-icons_666666_256x240.png  0%  100%  
+	  Mais Recente		    8641	ui-icons_999999_256x240.png  0%  100%  
+	                  10	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Dialogs\
+	  Mais Recente		     362	AssignDomain2.css  0%  100%  
+	  Mais Recente		    5353	AssignDomain2.js  0%  100%  
+	  Mais Recente		     212	CreateDialog.css  0%  100%  
+	  Mais Recente		     316	EditMacro.css  0%  100%  
+	  Mais Recente		    7379	EditMacro.js  0%  100%  
+	  Mais Recente		     362	PublishDialog.css  0%  100%  
+	  Mais Recente		    3481	PublishDialog.js  0%  100%  
+	  Mais Recente		    1171	SortDialog.css  0%  100%  
+	  Mais Recente		    4674	SortDialog.js  0%  100%  
+	  Mais Recente		    6012	UmbracoField.js  0%  100%  
+	                   9	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Editors\
+	  Mais Recente		     486	DirectoryBrowser.css  0%  100%  
+	  Mais Recente		     703	EditMacro.css  0%  100%  
+	  Mais Recente		    3039	EditMacroScripts.js  0%  100%  
+	  Mais Recente		    4183	EditScript.js  0%  100%  
+	  Mais Recente		    3796	EditStyleSheet.js  0%  100%  
+	  Mais Recente		    6263	EditTemplate.js  0%  100%  
+	  Mais Recente		   11378	EditView.js  0%  100%  
+	  Mais Recente		     161	EditXslt.css  0%  100%  
+	  Mais Recente		    3008	EditXslt.js  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\FileUploader\
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\FileUploader\Js\
+	  Mais Recente		   16856	jquery.fileUploader.js  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\FolderBrowser\
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\FolderBrowser\Css\
+	  Mais Recente		    5366	folderbrowser.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\FolderBrowser\Js\
+	  Mais Recente		   18681	folderbrowser.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\IconPicker\
+	  Mais Recente		      52	iconpicker.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Imagecropper\
+	  Mais Recente		     329	Jcrop.gif  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Images\
+	  Mais Recente		   10819	progressbar.gif  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Installer\
+	                   5	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Installer\Css\
+	  Mais Recente		   23469	all.css  0%  100%  
+	  Mais Recente		    1314	form.css  0%  100%  
+	  Mais Recente		   20078	jquery-ui-1.8.6.custom.css  0%  100%  
+	  Mais Recente		    7958	lt7.css  0%  100%  
+	  Mais Recente		     967	reset.css  0%  100%  
+	                  98	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Installer\Images\
+	  Mais Recente		   19424	bg-bhuiness-cl.gif  0%  100%  
+	  Mais Recente		   46684	bg-bhuiness-cr.gif  0%  100%  
+	  Mais Recente		  184850	bg-bhuiness.jpg  0%   70%  100%  
+	  Mais Recente		   18564	bg-blog-cl.gif  0%  100%  
+	  Mais Recente		   50756	bg-blog-cr.gif  0%  100%  
+	  Mais Recente		   11078	bg-blog-repeat.jpg  0%  100%  
+	  Mais Recente		  187609	bg-blog.jpg  0%   69%  100%  
+	  Mais Recente		     387	bg-drop-b.png  0%  100%  
+	  Mais Recente		      84	bg-drop-c.gif  0%  100%  
+	  Mais Recente		     391	bg-drop-t.png  0%  100%  
+	  Mais Recente		     158	bg-header.png  0%  100%  
+	  Mais Recente		    3915	bg-img-ie.png  0%  100%  
+	  Mais Recente		    2452	bg-img.png  0%  100%  
+	  Mais Recente		     866	bg-inp-big.png  0%  100%  
+	  Mais Recente		     616	bg-inp-error.png  0%  100%  
+	  Mais Recente		     621	bg-inp.png  0%  100%  
+	  Mais Recente		     283	bg-lightbox-b.png  0%  100%  
+	  Mais Recente		     296	bg-lightbox-t.png  0%  100%  
+	  Mais Recente		   18097	bg-normal-cl.gif  0%  100%  
+	  Mais Recente		   46703	bg-normal-cr.gif  0%  100%  
+	  Mais Recente		    9811	bg-normal-repeat.jpg  0%  100%  
+	  Mais Recente		  178356	bg-normal.jpg  0%   73%  100%  
+	  Mais Recente		     366	bg-paging-h.png  0%  100%  
+	  Mais Recente		     346	bg-paging.png  0%  100%  
+	  Mais Recente		   18097	bg-personal-cl.gif  0%  100%  
+	  Mais Recente		   46703	bg-personal-cr.gif  0%  100%  
+	  Mais Recente		    9811	bg-personal-repeat.jpg  0%  100%  
+	  Mais Recente		  178356	bg-personal.jpg  0%   73%  100%  
+	  Mais Recente		   17705	bg-simple-cl.gif  0%  100%  
+	  Mais Recente		   42137	bg-simple-cr.gif  0%  100%  
+	  Mais Recente		   12773	bg-simple-repeat.jpg  0%  100%  
+	  Mais Recente		  216794	bg-simple.jpg  0%   60%  100%  
+	  Mais Recente		    6059	btn-accept.png  0%  100%  
+	  Mais Recente		    2708	btn-back.png  0%  100%  
+	  Mais Recente		   22650	btn-blog.png  0%  100%  
+	  Mais Recente		   16942	btn-buisness-repeat.png  0%  100%  
+	  Mais Recente		   26481	btn-buisness.png  0%  100%  
+	  Mais Recente		    1682	btn-close.png  0%  100%  
+	  Mais Recente		    3113	btn-confirm.png  0%  100%  
+	  Mais Recente		    3500	btn-continue.png  0%  100%  
+	  Mais Recente		    2243	btn-create-hover.png  0%  100%  
+	  Mais Recente		    4277	btn-create.png  0%  100%  
+	  Mais Recente		    6109	btn-get.png  0%  100%  
+	  Mais Recente		    6446	btn-install-gal.png  0%  100%  
+	  Mais Recente		    1484	btn-install-hover.png  0%  100%  
+	  Mais Recente		    2789	btn-install.png  0%  100%  
+	  Mais Recente		     952	btn-next.png  0%  100%  
+	  Mais Recente		   25962	btn-no-thanks.png  0%  100%  
+	  Mais Recente		    1898	btn-no.png  0%  100%  
+	  Mais Recente		   30788	btn-personal.png  0%  100%  
+	  Mais Recente		     958	btn-prev.png  0%  100%  
+	  Mais Recente		    7219	btn-preview-web.png  0%  100%  
+	  Mais Recente		    8978	btn-preview.png  0%  100%  
+	  Mais Recente		    6976	btn-set.png  0%  100%  
+	  Mais Recente		   28477	btn-simple.png  0%  100%  
+	  Mais Recente		    2380	btn-yes.png  0%  100%  
+	  Mais Recente		     205	bul1.png  0%  100%  
+	  Mais Recente		      46	bul2.gif  0%  100%  
+	  Mais Recente		     240	bul3.png  0%  100%  
+	  Mais Recente		      74	bul4.gif  0%  100%  
+	  Mais Recente		     467	ico-invalidaing.png  0%  100%  
+	  Mais Recente		     437	ico-validaing.png  0%  100%  
+	  Mais Recente		    3189	img01.jpg  0%  100%  
+	  Mais Recente		    3533	img02.jpg  0%  100%  
+	  Mais Recente		    6205	img03.jpg  0%  100%  
+	  Mais Recente		    5029	img04.jpg  0%  100%  
+	  Mais Recente		    6113	img05.jpg  0%  100%  
+	  Mais Recente		    4408	img06.jpg  0%  100%  
+	  Mais Recente		    5924	img07.jpg  0%  100%  
+	  Mais Recente		    4535	img08.jpg  0%  100%  
+	  Mais Recente		   16018	img09.jpg  0%  100%  
+	  Mais Recente		    4173	img10.jpg  0%  100%  
+	  Mais Recente		    6618	img11.jpg  0%  100%  
+	  Mais Recente		    2113	loader.gif  0%  100%  
+	  Mais Recente		    1445	logo.gif  0%  100%  
+	  Mais Recente		      43	none.gif  0%  100%  
+	  Mais Recente		  304064	pbar-ani.gif  0%   43%   86%  100%  
+	  Mais Recente		    1026	pbar.gif  0%  100%  
+	  Mais Recente		     491	select-button.png  0%  100%  
+	  Mais Recente		     199	select-center.png  0%  100%  
+	  Mais Recente		     816	select-left-2.png  0%  100%  
+	  Mais Recente		     401	select-left.png  0%  100%  
+	  Mais Recente		     110	sep1.png  0%  100%  
+	  Mais Recente		     260	ui-bg_diagonals-thick_18_b81900_40x40.png  0%  100%  
+	  Mais Recente		     251	ui-bg_diagonals-thick_20_666666_40x40.png  0%  100%  
+	  Mais Recente		     178	ui-bg_flat_10_000000_40x100.png  0%  100%  
+	  Mais Recente		     104	ui-bg_glass_100_f6f6f6_1x400.png  0%  100%  
+	  Mais Recente		     125	ui-bg_glass_100_fdf5ce_1x400.png  0%  100%  
+	  Mais Recente		     105	ui-bg_glass_65_ffffff_1x400.png  0%  100%  
+	  Mais Recente		    3762	ui-bg_gloss-wave_35_f6a828_500x100.png  0%  100%  
+	  Mais Recente		      90	ui-bg_highlight-soft_100_eeeeee_1x100.png  0%  100%  
+	  Mais Recente		     129	ui-bg_highlight-soft_75_ffe45c_1x100.png  0%  100%  
+	  Mais Recente		    4369	ui-icons_222222_256x240.png  0%  100%  
+	  Mais Recente		    4369	ui-icons_228ef1_256x240.png  0%  100%  
+	  Mais Recente		    4369	ui-icons_ef8c08_256x240.png  0%  100%  
+	  Mais Recente		    4369	ui-icons_ffd27a_256x240.png  0%  100%  
+	  Mais Recente		    4369	ui-icons_ffffff_256x240.png  0%  100%  
+	  Mais Recente		    1207	zoom-in.png  0%  100%  
+	                   5	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Installer\Js\
+	  Mais Recente		    7058	ie-png.js  0%  100%  
+	  Mais Recente		   94332	jquery.1.4.4.js  0%  100%  
+	  Mais Recente		   62130	jquery.main.js  0%  100%  
+	  Mais Recente		   19146	jquery.ui.selectmenu.js  0%  100%  
+	  Mais Recente		    9543	PackageInstaller.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Jeditable\
+	  Mais Recente		   24034	jquery.jeditable.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\MacroContainer\
+	  Mais Recente		     666	macroContainer.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\MaskedInput\
+	  Mais Recente		    4028	jquery.maskedinput-1.3.min.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Menuicon\
+	  Mais Recente		     571	style.css  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Menuicon\Images\
+	  Mais Recente		     273	buttonbg.gif  0%  100%  
+	  Mais Recente		     273	buttonbgdown.gif  0%  100%  
+	  Mais Recente		     851	split.gif  0%  100%  
+	                   5	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Modal\
+	  Mais Recente		   24841	jquery.simplemodal.1.4.1.custom.js  0%  100%  
+	  Mais Recente		   20733	modal.js  0%  100%  
+	  Mais Recente		     475	modalBackground.gif  0%  100%  
+	  Mais Recente		     151	modalGradiant.gif  0%  100%  
+	  Mais Recente		    1417	style.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Mousewheel\
+	  Mais Recente		    1638	jquery.mousewheel.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Panel\
+	  Mais Recente		     240	javascript.js  0%  100%  
+	  Mais Recente		    2608	style.css  0%  100%  
+	                   6	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Panel\Images\
+	  Mais Recente		      98	panel_bg.gif  0%  100%  
+	  Mais Recente		      43	panel_boxfooter_bg.gif  0%  100%  
+	  Mais Recente		     162	panel_boxfooter_statusBar_bg.gif  0%  100%  
+	  Mais Recente		     164	panel_boxfooter_statusBar_h2_bg.gif  0%  100%  
+	  Mais Recente		     194	panel_boxhead_bg.gif  0%  100%  
+	  Mais Recente		     193	panel_boxhead_h2_bg.gif  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Preview\
+	  Mais Recente		    3508	previewModeBadge.png  0%  100%  
+	  Mais Recente		     169	umbracoPreview.css  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\ProgressBar\
+	  Mais Recente		     795	javascript.js  0%  100%  
+	  Mais Recente		     524	style.css  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\ProgressBar\Images\
+	  Mais Recente		     314	container_left.gif  0%  100%  
+	  Mais Recente		     102	container_right.gif  0%  100%  
+	  Mais Recente		     113	indicator.gif  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Propertypane\
+	  Mais Recente		    2000	style.css  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Propertypane\Images\
+	  Mais Recente		    9038	propertyBackground.gif  0%  100%  
+	  Mais Recente		     554	proppane_bg.png  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\PunyCode\
+	  Mais Recente		    2802	punycode.min.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Scrollingmenu\
+	  Mais Recente		    2851	javascript.js  0%  100%  
+	  Mais Recente		     255	style.css  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Scrollingmenu\Images\
+	  Mais Recente		     834	arrawBack.gif  0%  100%  
+	  Mais Recente		     834	arrowForward.gif  0%  100%  
+	  Mais Recente		     183	background.gif  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Scrollingmenu\Images\Button\
+	  Mais Recente		     273	buttonbg.gif  0%  100%  
+	  Mais Recente		     273	buttonbgdown.gif  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\SimpleEditor\
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\SimpleEditor\Images\
+	  Mais Recente		      78	bold.gif  0%  100%  
+	  Mais Recente		      73	italic.gif  0%  100%  
+	  Mais Recente		     108	link.gif  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Splitbutton\
+	  Mais Recente		    2246	InsertMacroSplitButton.js  0%  100%  
+	  Mais Recente		   18462	jquery.splitbutton.js  0%  100%  
+	  Mais Recente		    2773	splitbutton.css  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Splitbutton\Images\
+	  Mais Recente		     130	splitbutton_downarrow.png  0%  100%  
+	  Mais Recente		     149	splitbutton_hover.png  0%  100%  
+	                   4	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tablesorting\
+	  Mais Recente		   16523	jquery.tablesorter.min.js  0%  100%  
+	  Mais Recente		   18249	tableDragAndDrop.js  0%  100%  
+	  Mais Recente		   23499	tableFilter.js  0%  100%  
+	  Mais Recente		   12838	tableFilterUtill.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tablesorting\img\
+	  Mais Recente		     830	asc.gif  0%  100%  
+	  Mais Recente		      73	bg.gif  0%  100%  
+	  Mais Recente		     833	desc.gif  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tabview\
+	  Mais Recente		    3721	javascript.js  0%  100%  
+	  Mais Recente		    1589	oldstyle.css  0%  100%  
+	  Mais Recente		    2633	style.css  0%  100%  
+	                   7	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tabview\Images\
+	  Mais Recente		     169	background.gif  0%  100%  
+	  Mais Recente		      73	bg.gif  0%  100%  
+	  Mais Recente		      43	footer_bg.gif  0%  100%  
+	  Mais Recente		     162	footer_statusBar_bg.gif  0%  100%  
+	  Mais Recente		     164	footer_statusBar_h2_bg.gif  0%  100%  
+	  Mais Recente		    1343	left_both.gif  0%  100%  
+	  Mais Recente		    3913	right_both.gif  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tags\
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tags\Css\
+	  Mais Recente		    1117	jquery.tagsinput.css  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tags\Js\
+	  Mais Recente		   11891	jquery.tagsinput.js  0%  100%  
+	  Mais Recente		    6400	jquery.tagsinput.min.js  0%  100%  
+	                   4	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\
+	  Mais Recente		   26930	license.txt  0%  100%  
+	  Mais Recente		  232483	tiny_mce.js  0%   56%  100%  
+	  Mais Recente		    4912	tiny_mce_popup.js  0%  100%  
+	  Mais Recente		  524361	tiny_mce_src.js  0%   49%   99%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Langs\
+	  Mais Recente		    7049	da.js  0%  100%  
+	  Mais Recente		    7251	de.js  0%  100%  
+	  Mais Recente		    6515	en.js  0%  100%  
+	  Mais Recente		    6518	en_us.js  0%  100%  
+	  Mais Recente		    7711	fi.js  0%  100%  
+	  Mais Recente		    7765	fr.js  0%  100%  
+	  Mais Recente		   15279	he.js  0%  100%  
+	  Mais Recente		    7010	it.js  0%  100%  
+	  Mais Recente		   11301	ja.js  0%  100%  
+	  Mais Recente		    6635	nl.js  0%  100%  
+	  Mais Recente		    6958	no.js  0%  100%  
+	  Mais Recente		    7897	pl.js  0%  100%  
+	  Mais Recente		    7053	pt.js  0%  100%  
+	  Mais Recente		   19794	ru.js  0%  100%  
+	  Mais Recente		    6966	sv.js  0%  100%  
+	  Mais Recente		    8432	zh.js  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\
+	  Mais Recente		     847	editor_plugin.js  0%  100%  
+	  Mais Recente		    1442	editor_plugin_src.js  0%  100%  
+	  Mais Recente		    2422	rule.htm  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Css\
+	  Mais Recente		     240	advhr.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Js\
+	  Mais Recente		    1322	rule.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Langs\
+	  Mais Recente		     127	da_dlg.js  0%  100%  
+	  Mais Recente		     129	de_dlg.js  0%  100%  
+	  Mais Recente		     117	en_dlg.js  0%  100%  
+	  Mais Recente		     120	en_us_dlg.js  0%  100%  
+	  Mais Recente		     128	fi_dlg.js  0%  100%  
+	  Mais Recente		     129	fr_dlg.js  0%  100%  
+	  Mais Recente		     225	he_dlg.js  0%  100%  
+	  Mais Recente		     138	it_dlg.js  0%  100%  
+	  Mais Recente		     146	ja_dlg.js  0%  100%  
+	  Mais Recente		     126	nl_dlg.js  0%  100%  
+	  Mais Recente		     127	no_dlg.js  0%  100%  
+	  Mais Recente		     150	pl_dlg.js  0%  100%  
+	  Mais Recente		     120	pt_dlg.js  0%  100%  
+	  Mais Recente		     342	ru_dlg.js  0%  100%  
+	  Mais Recente		     125	sv_dlg.js  0%  100%  
+	  Mais Recente		     142	zh_dlg.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\
+	  Mais Recente		     791	editor_plugin.js  0%  100%  
+	  Mais Recente		    1391	editor_plugin_src.js  0%  100%  
+	  Mais Recente		   12086	image.htm  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Css\
+	  Mais Recente		     672	advimage.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Img\
+	  Mais Recente		    1624	sample.gif  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Js\
+	  Mais Recente		   12909	image.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Langs\
+	  Mais Recente		    1352	da_dlg.js  0%  100%  
+	  Mais Recente		    1363	de_dlg.js  0%  100%  
+	  Mais Recente		    1270	en_dlg.js  0%  100%  
+	  Mais Recente		    1273	en_us_dlg.js  0%  100%  
+	  Mais Recente		    1387	fi_dlg.js  0%  100%  
+	  Mais Recente		    1508	fr_dlg.js  0%  100%  
+	  Mais Recente		    2771	he_dlg.js  0%  100%  
+	  Mais Recente		    1467	it_dlg.js  0%  100%  
+	  Mais Recente		    2319	ja_dlg.js  0%  100%  
+	  Mais Recente		    1267	nl_dlg.js  0%  100%  
+	  Mais Recente		    1312	no_dlg.js  0%  100%  
+	  Mais Recente		    1467	pl_dlg.js  0%  100%  
+	  Mais Recente		    1374	pt_dlg.js  0%  100%  
+	  Mais Recente		    4924	ru_dlg.js  0%  100%  
+	  Mais Recente		    1266	sv_dlg.js  0%  100%  
+	  Mais Recente		    1761	zh_dlg.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\
+	  Mais Recente		     973	editor_plugin.js  0%  100%  
+	  Mais Recente		    1633	editor_plugin_src.js  0%  100%  
+	  Mais Recente		   16123	link.htm  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Css\
+	  Mais Recente		     480	advlink.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Js\
+	  Mais Recente		   17341	advlink.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Langs\
+	  Mais Recente		    1944	da_dlg.js  0%  100%  
+	  Mais Recente		    1955	de_dlg.js  0%  100%  
+	  Mais Recente		    1667	en_dlg.js  0%  100%  
+	  Mais Recente		    1670	en_us_dlg.js  0%  100%  
+	  Mais Recente		    1985	fi_dlg.js  0%  100%  
+	  Mais Recente		    2120	fr_dlg.js  0%  100%  
+	  Mais Recente		    4332	he_dlg.js  0%  100%  
+	  Mais Recente		    1864	it_dlg.js  0%  100%  
+	  Mais Recente		    3274	ja_dlg.js  0%  100%  
+	  Mais Recente		    1710	nl_dlg.js  0%  100%  
+	  Mais Recente		    1871	no_dlg.js  0%  100%  
+	  Mais Recente		    2012	pl_dlg.js  0%  100%  
+	  Mais Recente		    1962	pt_dlg.js  0%  100%  
+	  Mais Recente		    5662	ru_dlg.js  0%  100%  
+	  Mais Recente		    1846	sv_dlg.js  0%  100%  
+	  Mais Recente		    2326	zh_dlg.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlist\
+	  Mais Recente		    2324	editor_plugin.js  0%  100%  
+	  Mais Recente		    4726	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autolink\
+	  Mais Recente		    2355	editor_plugin.js  0%  100%  
+	  Mais Recente		    5492	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autoresize\
+	  Mais Recente		    1506	editor_plugin.js  0%  100%  
+	  Mais Recente		    4158	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autosave\
+	  Mais Recente		    3584	editor_plugin.js  0%  100%  
+	  Mais Recente		   13766	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autosave\Langs\
+	  Mais Recente		     256	en.js  0%  100%  
+	  Mais Recente		     259	en_us.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Bbcode\
+	  Mais Recente		    3231	editor_plugin.js  0%  100%  
+	  Mais Recente		    4361	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Contextmenu\
+	  Mais Recente		    2540	editor_plugin.js  0%  100%  
+	  Mais Recente		    5227	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Directionality\
+	  Mais Recente		    1259	editor_plugin.js  0%  100%  
+	  Mais Recente		    2189	editor_plugin_src.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\
+	  Mais Recente		     676	editor_plugin.js  0%  100%  
+	  Mais Recente		    1220	editor_plugin_src.js  0%  100%  
+	  Mais Recente		    5972	emotions.htm  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Img\
+	  Mais Recente		     354	smiley-cool.gif  0%  100%  
+	  Mais Recente		     329	smiley-cry.gif  0%  100%  
+	  Mais Recente		     331	smiley-embarassed.gif  0%  100%  
+	  Mais Recente		     342	smiley-foot-in-mouth.gif  0%  100%  
+	  Mais Recente		     340	smiley-frown.gif  0%  100%  
+	  Mais Recente		     336	smiley-innocent.gif  0%  100%  
+	  Mais Recente		     338	smiley-kiss.gif  0%  100%  
+	  Mais Recente		     343	smiley-laughing.gif  0%  100%  
+	  Mais Recente		     321	smiley-money-mouth.gif  0%  100%  
+	  Mais Recente		     323	smiley-sealed.gif  0%  100%  
+	  Mais Recente		     344	smiley-smile.gif  0%  100%  
+	  Mais Recente		     338	smiley-surprised.gif  0%  100%  
+	  Mais Recente		     328	smiley-tongue-out.gif  0%  100%  
+	  Mais Recente		     337	smiley-undecided.gif  0%  100%  
+	  Mais Recente		     350	smiley-wink.gif  0%  100%  
+	  Mais Recente		     336	smiley-yell.gif  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Js\
+	  Mais Recente		    1120	emotions.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Langs\
+	  Mais Recente		     463	da_dlg.js  0%  100%  
+	  Mais Recente		     478	de_dlg.js  0%  100%  
+	  Mais Recente		     421	en_dlg.js  0%  100%  
+	  Mais Recente		     424	en_us_dlg.js  0%  100%  
+	  Mais Recente		     532	fi_dlg.js  0%  100%  
+	  Mais Recente		     513	fr_dlg.js  0%  100%  
+	  Mais Recente		     999	he_dlg.js  0%  100%  
+	  Mais Recente		     472	it_dlg.js  0%  100%  
+	  Mais Recente		     738	ja_dlg.js  0%  100%  
+	  Mais Recente		     459	nl_dlg.js  0%  100%  
+	  Mais Recente		     446	no_dlg.js  0%  100%  
+	  Mais Recente		     529	pl_dlg.js  0%  100%  
+	  Mais Recente		     468	pt_dlg.js  0%  100%  
+	  Mais Recente		    1380	ru_dlg.js  0%  100%  
+	  Mais Recente		     496	sv_dlg.js  0%  100%  
+	  Mais Recente		     456	zh_dlg.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\
+	  Mais Recente		     908	dialog.htm  0%  100%  
+	  Mais Recente		     860	editor_plugin.js  0%  100%  
+	  Mais Recente		    2988	editor_plugin_src.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Img\
+	  Mais Recente		      87	example.gif  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Js\
+	  Mais Recente		     609	dialog.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Langs\
+	  Mais Recente		      79	en.js  0%  100%  
+	  Mais Recente		      82	en_dlg.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\example_dependency\
+	  Mais Recente		     419	editor_plugin.js  0%  100%  
+	  Mais Recente		    1885	editor_plugin_src.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\
+	  Mais Recente		    6322	editor_plugin.js  0%  100%  
+	  Mais Recente		   11568	editor_plugin_src.js  0%  100%  
+	  Mais Recente		   10754	fullpage.htm  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Css\
+	  Mais Recente		    2188	fullpage.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Js\
+	  Mais Recente		    8164	fullpage.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Langs\
+	  Mais Recente		    2347	da_dlg.js  0%  100%  
+	  Mais Recente		    2469	de_dlg.js  0%  100%  
+	  Mais Recente		    2297	en_dlg.js  0%  100%  
+	  Mais Recente		    2300	en_us_dlg.js  0%  100%  
+	  Mais Recente		    2541	fi_dlg.js  0%  100%  
+	  Mais Recente		    2864	fr_dlg.js  0%  100%  
+	  Mais Recente		    4260	he_dlg.js  0%  100%  
+	  Mais Recente		    2520	it_dlg.js  0%  100%  
+	  Mais Recente		    3802	ja_dlg.js  0%  100%  
+	  Mais Recente		    2365	nl_dlg.js  0%  100%  
+	  Mais Recente		    2359	no_dlg.js  0%  100%  
+	  Mais Recente		    2712	pl_dlg.js  0%  100%  
+	  Mais Recente		    2387	pt_dlg.js  0%  100%  
+	  Mais Recente		    6193	ru_dlg.js  0%  100%  
+	  Mais Recente		    2499	sv_dlg.js  0%  100%  
+	  Mais Recente		    2863	zh_dlg.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullscreen\
+	  Mais Recente		    4422	editor_plugin.js  0%  100%  
+	  Mais Recente		    8222	editor_plugin_src.js  0%  100%  
+	  Mais Recente		    3655	fullscreen.htm  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Iespell\
+	  Mais Recente		     909	editor_plugin.js  0%  100%  
+	  Mais Recente		    1484	editor_plugin_src.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\
+	  Mais Recente		   11928	editor_plugin.js  0%  100%  
+	  Mais Recente		   19657	editor_plugin_src.js  0%  100%  
+	  Mais Recente		   12878	template.htm  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Clearlooks2\
+	  Mais Recente		    6715	window.css  0%  100%  
+	                   7	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Clearlooks2\Img\
+	  Mais Recente		     810	alert.gif  0%  100%  
+	  Mais Recente		     272	button.gif  0%  100%  
+	  Mais Recente		    1195	buttons.gif  0%  100%  
+	  Mais Recente		     907	confirm.gif  0%  100%  
+	  Mais Recente		     909	corners.gif  0%  100%  
+	  Mais Recente		     769	horizontal.gif  0%  100%  
+	  Mais Recente		      84	vertical.gif  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Umbraco\
+	  Mais Recente		    4816	window.css  0%  100%  
+	                   8	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Umbraco\Img\
+	  Mais Recente		     818	alert.gif  0%  100%  
+	  Mais Recente		     280	button.gif  0%  100%  
+	  Mais Recente		    1195	buttons.gif  0%  100%  
+	  Mais Recente		    3728	close.png  0%  100%  
+	  Mais Recente		     915	confirm.gif  0%  100%  
+	  Mais Recente		     569	corners.gif  0%  100%  
+	  Mais Recente		     436	horizontal.gif  0%  100%  
+	  Mais Recente		     140	vertical.gif  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Insertdatetime\
+	  Mais Recente		    1931	editor_plugin.js  0%  100%  
+	  Mais Recente		    2860	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Layer\
+	  Mais Recente		    4052	editor_plugin.js  0%  100%  
+	  Mais Recente		    6747	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Legacyoutput\
+	  Mais Recente		    2086	editor_plugin.js  0%  100%  
+	  Mais Recente		    5077	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Lists\
+	  Mais Recente		   14380	editor_plugin.js  0%  100%  
+	  Mais Recente		   32531	editor_plugin_src.js  0%  100%  
+	                   4	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\
+	  Mais Recente		   12655	editor_plugin.js  0%  100%  
+	  Mais Recente		   26419	editor_plugin_src.js  0%  100%  
+	  Mais Recente		   38852	media.htm  0%  100%  
+	  Mais Recente		   19980	moxieplayer.swf  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Css\
+	  Mais Recente		    1357	media.css  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Js\
+	  Mais Recente		    1938	embed.js  0%  100%  
+	  Mais Recente		   16473	media.js  0%  100%  
+	                  18	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Langs\
+	  Mais Recente		    3077	da_dlg.js  0%  100%  
+	  Mais Recente		    3164	de_dlg.js  0%  100%  
+	  Mais Recente		    2815	en_dlg.js  0%  100%  
+	  Mais Recente		    2818	en_us_dlg.js  0%  100%  
+	  Mais Recente		    3018	es_dlg.js  0%  100%  
+	  Mais Recente		    3314	fi_dlg.js  0%  100%  
+	  Mais Recente		    3302	fr_dlg.js  0%  100%  
+	  Mais Recente		    5399	he_dlg.js  0%  100%  
+	  Mais Recente		    3062	it_dlg.js  0%  100%  
+	  Mais Recente		    5047	ja_dlg.js  0%  100%  
+	  Mais Recente		    2734	ko_dlg.js  0%  100%  
+	  Mais Recente		    2949	nl_dlg.js  0%  100%  
+	  Mais Recente		    3047	no_dlg.js  0%  100%  
+	  Mais Recente		    3259	pl_dlg.js  0%  100%  
+	  Mais Recente		    3259	pt_dlg.js  0%  100%  
+	  Mais Recente		    9433	ru_dlg.js  0%  100%  
+	  Mais Recente		    2962	sv_dlg.js  0%  100%  
+	  Mais Recente		    3445	zh_dlg.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Nonbreaking\
+	  Mais Recente		     944	editor_plugin.js  0%  100%  
+	  Mais Recente		    1521	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Noneditable\
+	  Mais Recente		    5431	editor_plugin.js  0%  100%  
+	  Mais Recente		   17154	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Pagebreak\
+	  Mais Recente		    1402	editor_plugin.js  0%  100%  
+	  Mais Recente		    2161	editor_plugin_src.js  0%  100%  
+	                   4	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\
+	  Mais Recente		   13713	editor_plugin.js  0%  100%  
+	  Mais Recente		   31674	editor_plugin_src.js  0%  100%  
+	  Mais Recente		    1209	pastetext.htm  0%  100%  
+	  Mais Recente		     783	pasteword.htm  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\Js\
+	  Mais Recente		     884	pastetext.js  0%  100%  
+	  Mais Recente		    1647	pasteword.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\Langs\
+	  Mais Recente		     227	da_dlg.js  0%  100%  
+	  Mais Recente		     262	de_dlg.js  0%  100%  
+	  Mais Recente		     226	en_dlg.js  0%  100%  
+	  Mais Recente		     229	en_us_dlg.js  0%  100%  
+	  Mais Recente		     245	fi_dlg.js  0%  100%  
+	  Mais Recente		     276	fr_dlg.js  0%  100%  
+	  Mais Recente		     610	he_dlg.js  0%  100%  
+	  Mais Recente		     252	it_dlg.js  0%  100%  
+	  Mais Recente		     517	ja_dlg.js  0%  100%  
+	  Mais Recente		     209	nl_dlg.js  0%  100%  
+	  Mais Recente		     256	no_dlg.js  0%  100%  
+	  Mais Recente		     263	pl_dlg.js  0%  100%  
+	  Mais Recente		     190	pt_dlg.js  0%  100%  
+	  Mais Recente		     633	ru_dlg.js  0%  100%  
+	  Mais Recente		     284	sv_dlg.js  0%  100%  
+	  Mais Recente		     258	zh_dlg.js  0%  100%  
+	                   4	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Preview\
+	  Mais Recente		    1051	editor_plugin.js  0%  100%  
+	  Mais Recente		    1641	editor_plugin_src.js  0%  100%  
+	  Mais Recente		     731	example.html  0%  100%  
+	  Mais Recente		     630	preview.html  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Preview\Jscripts\
+	  Mais Recente		    1938	embed.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Print\
+	  Mais Recente		     492	editor_plugin.js  0%  100%  
+	  Mais Recente		     881	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Save\
+	  Mais Recente		    1569	editor_plugin.js  0%  100%  
+	  Mais Recente		    2529	editor_plugin_src.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\
+	  Mais Recente		    1046	editor_plugin.js  0%  100%  
+	  Mais Recente		    1795	editor_plugin_src.js  0%  100%  
+	  Mais Recente		    5334	searchreplace.htm  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Css\
+	  Mais Recente		     176	searchreplace.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Js\
+	  Mais Recente		    3878	searchreplace.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Langs\
+	  Mais Recente		     461	da_dlg.js  0%  100%  
+	  Mais Recente		     522	de_dlg.js  0%  100%  
+	  Mais Recente		     445	en_dlg.js  0%  100%  
+	  Mais Recente		     448	en_us_dlg.js  0%  100%  
+	  Mais Recente		     468	fi_dlg.js  0%  100%  
+	  Mais Recente		     584	fr_dlg.js  0%  100%  
+	  Mais Recente		    1056	he_dlg.js  0%  100%  
+	  Mais Recente		     473	it_dlg.js  0%  100%  
+	  Mais Recente		     755	ja_dlg.js  0%  100%  
+	  Mais Recente		     488	nl_dlg.js  0%  100%  
+	  Mais Recente		     475	no_dlg.js  0%  100%  
+	  Mais Recente		     602	pl_dlg.js  0%  100%  
+	  Mais Recente		     489	pt_dlg.js  0%  100%  
+	  Mais Recente		    1262	ru_dlg.js  0%  100%  
+	  Mais Recente		     535	sv_dlg.js  0%  100%  
+	  Mais Recente		     633	zh_dlg.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\
+	  Mais Recente		    7217	editor_plugin.js  0%  100%  
+	  Mais Recente		   12791	editor_plugin_src.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\Css\
+	  Mais Recente		      98	content.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\Img\
+	  Mais Recente		      46	wline.gif  0%  100%  
+	                   4	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\
+	  Mais Recente		    1117	editor_plugin.js  0%  100%  
+	  Mais Recente		    1927	editor_plugin_src.js  0%  100%  
+	  Mais Recente		   38494	props.htm  0%  100%  
+	  Mais Recente		    1030	readme.txt  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Css\
+	  Mais Recente		     906	props.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Js\
+	  Mais Recente		   32355	props.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Langs\
+	  Mais Recente		    1689	da_dlg.js  0%  100%  
+	  Mais Recente		    1824	de_dlg.js  0%  100%  
+	  Mais Recente		    1627	en_dlg.js  0%  100%  
+	  Mais Recente		    1630	en_us_dlg.js  0%  100%  
+	  Mais Recente		    1762	fi_dlg.js  0%  100%  
+	  Mais Recente		    1723	fr_dlg.js  0%  100%  
+	  Mais Recente		    3246	he_dlg.js  0%  100%  
+	  Mais Recente		    1718	it_dlg.js  0%  100%  
+	  Mais Recente		    2436	ja_dlg.js  0%  100%  
+	  Mais Recente		    1652	nl_dlg.js  0%  100%  
+	  Mais Recente		    1648	no_dlg.js  0%  100%  
+	  Mais Recente		    1916	pl_dlg.js  0%  100%  
+	  Mais Recente		    1684	pt_dlg.js  0%  100%  
+	  Mais Recente		    4509	ru_dlg.js  0%  100%  
+	  Mais Recente		    1700	sv_dlg.js  0%  100%  
+	  Mais Recente		    2005	zh_dlg.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Tabfocus\
+	  Mais Recente		    1666	editor_plugin.js  0%  100%  
+	  Mais Recente		    3057	editor_plugin_src.js  0%  100%  
+	                   6	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\
+	  Mais Recente		    7292	cell.htm  0%  100%  
+	  Mais Recente		   17667	editor_plugin.js  0%  100%  
+	  Mais Recente		   40915	editor_plugin_src.js  0%  100%  
+	  Mais Recente		    1508	merge_cells.htm  0%  100%  
+	  Mais Recente		    6263	row.htm  0%  100%  
+	  Mais Recente		    9035	table.htm  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Css\
+	  Mais Recente		     205	cell.css  0%  100%  
+	  Mais Recente		     306	row.css  0%  100%  
+	  Mais Recente		     170	table.css  0%  100%  
+	                   4	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Js\
+	  Mais Recente		    9458	cell.js  0%  100%  
+	  Mais Recente		     566	merge_cells.js  0%  100%  
+	  Mais Recente		    7775	row.js  0%  100%  
+	  Mais Recente		   15534	table.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Langs\
+	  Mais Recente		    2262	da_dlg.js  0%  100%  
+	  Mais Recente		    2462	de_dlg.js  0%  100%  
+	  Mais Recente		    2092	en_dlg.js  0%  100%  
+	  Mais Recente		    2095	en_us_dlg.js  0%  100%  
+	  Mais Recente		    2516	fi_dlg.js  0%  100%  
+	  Mais Recente		    2694	fr_dlg.js  0%  100%  
+	  Mais Recente		    4748	he_dlg.js  0%  100%  
+	  Mais Recente		    2301	it_dlg.js  0%  100%  
+	  Mais Recente		    3631	ja_dlg.js  0%  100%  
+	  Mais Recente		    2199	nl_dlg.js  0%  100%  
+	  Mais Recente		    2247	no_dlg.js  0%  100%  
+	  Mais Recente		    2653	pl_dlg.js  0%  100%  
+	  Mais Recente		    2285	pt_dlg.js  0%  100%  
+	  Mais Recente		    6724	ru_dlg.js  0%  100%  
+	  Mais Recente		    2189	sv_dlg.js  0%  100%  
+	  Mais Recente		    2859	zh_dlg.js  0%  100%  
+	                   4	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\
+	  Mais Recente		     332	blank.htm  0%  100%  
+	  Mais Recente		    3302	editor_plugin.js  0%  100%  
+	  Mais Recente		    4986	editor_plugin_src.js  0%  100%  
+	  Mais Recente		    1441	template.htm  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Css\
+	  Mais Recente		     275	template.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Js\
+	  Mais Recente		    2777	template.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Langs\
+	  Mais Recente		     670	da_dlg.js  0%  100%  
+	  Mais Recente		     662	de_dlg.js  0%  100%  
+	  Mais Recente		     627	en_dlg.js  0%  100%  
+	  Mais Recente		     630	en_us_dlg.js  0%  100%  
+	  Mais Recente		     756	fi_dlg.js  0%  100%  
+	  Mais Recente		     731	fr_dlg.js  0%  100%  
+	  Mais Recente		    1065	he_dlg.js  0%  100%  
+	  Mais Recente		     693	it_dlg.js  0%  100%  
+	  Mais Recente		    1041	ja_dlg.js  0%  100%  
+	  Mais Recente		     670	nl_dlg.js  0%  100%  
+	  Mais Recente		     651	no_dlg.js  0%  100%  
+	  Mais Recente		     688	pl_dlg.js  0%  100%  
+	  Mais Recente		     694	pt_dlg.js  0%  100%  
+	  Mais Recente		    2076	ru_dlg.js  0%  100%  
+	  Mais Recente		     670	sv_dlg.js  0%  100%  
+	  Mais Recente		     989	zh_dlg.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocontextmenu\
+	  Mais Recente		    2561	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\
+	  Mais Recente		     991	dialog.htm  0%  100%  
+	  Mais Recente		    8362	editor_plugin_src.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Img\
+	  Mais Recente		      87	example.gif  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Js\
+	  Mais Recente		     609	dialog.js  0%  100%  
+	                  14	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Langs\
+	  Mais Recente		      79	en.js  0%  100%  
+	  Mais Recente		      82	en_dlg.js  0%  100%  
+	  Mais Recente		      82	en_us.js  0%  100%  
+	  Mais Recente		      85	en_us_dlg.js  0%  100%  
+	  Mais Recente		      67	it.js  0%  100%  
+	  Mais Recente		      71	it_dlg.js  0%  100%  
+	  Mais Recente		      92	ja.js  0%  100%  
+	  Mais Recente		      84	ja_dlg.js  0%  100%  
+	  Mais Recente		      96	ru.js  0%  100%  
+	  Mais Recente		     105	ru_dlg.js  0%  100%  
+	  Mais Recente		      76	sv.js  0%  100%  
+	  Mais Recente		      93	sv_dlg.js  0%  100%  
+	  Mais Recente		      67	zh.js  0%  100%  
+	  Mais Recente		      72	zh_dlg.js  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\
+	  Mais Recente		    3816	dialog.htm  0%  100%  
+	  Mais Recente		     860	editor_plugin.js  0%  100%  
+	  Mais Recente		    2984	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Img\
+	  Mais Recente		    1928	ajax-loader.gif  0%  100%  
+	  Mais Recente		     260	embed.gif  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Js\
+	  Mais Recente		    3260	dialog.js  0%  100%  
+	                  18	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Langs\
+	  Mais Recente		      85	da.js  0%  100%  
+	  Mais Recente		     251	da_dlg.js  0%  100%  
+	  Mais Recente		     272	de.js  0%  100%  
+	  Mais Recente		     272	de_dlg.js  0%  100%  
+	  Mais Recente		      78	en.js  0%  100%  
+	  Mais Recente		     232	en_dlg.js  0%  100%  
+	  Mais Recente		      81	en_us.js  0%  100%  
+	  Mais Recente		     235	en_us_dlg.js  0%  100%  
+	  Mais Recente		     236	it.js  0%  100%  
+	  Mais Recente		     244	it_dlg.js  0%  100%  
+	  Mais Recente		     267	ja.js  0%  100%  
+	  Mais Recente		     268	ja_dlg.js  0%  100%  
+	  Mais Recente		     329	ru.js  0%  100%  
+	  Mais Recente		     329	ru_dlg.js  0%  100%  
+	  Mais Recente		     260	sv.js  0%  100%  
+	  Mais Recente		     260	sv_dlg.js  0%  100%  
+	  Mais Recente		     235	zh.js  0%  100%  
+	  Mais Recente		     235	zh_dlg.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\
+	  Mais Recente		    1739	editor_plugin_src.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\Js\
+	  Mais Recente		   10412	image.js  0%  100%  
+	                   8	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\Langs\
+	  Mais Recente		    1495	en_dlg.js  0%  100%  
+	  Mais Recente		    1498	en_us_dlg.js  0%  100%  
+	  Mais Recente		    1495	he_dlg.js  0%  100%  
+	  Mais Recente		    1583	it_dlg.js  0%  100%  
+	  Mais Recente		    1694	ja_dlg.js  0%  100%  
+	  Mais Recente		    2314	ru_dlg.js  0%  100%  
+	  Mais Recente		    1536	sv_dlg.js  0%  100%  
+	  Mais Recente		    1346	zh_dlg.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\
+	  Mais Recente		    1860	editor_plugin_src.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\Js\
+	  Mais Recente		   17755	umbracolink.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\Langs\
+	  Mais Recente		    1944	da_dlg.js  0%  100%  
+	  Mais Recente		    1955	de_dlg.js  0%  100%  
+	  Mais Recente		    1667	en_dlg.js  0%  100%  
+	  Mais Recente		    1670	en_us_dlg.js  0%  100%  
+	  Mais Recente		    1985	fi_dlg.js  0%  100%  
+	  Mais Recente		    2120	fr_dlg.js  0%  100%  
+	  Mais Recente		    4332	he_dlg.js  0%  100%  
+	  Mais Recente		    1864	it_dlg.js  0%  100%  
+	  Mais Recente		    3274	ja_dlg.js  0%  100%  
+	  Mais Recente		    1710	nl_dlg.js  0%  100%  
+	  Mais Recente		    1871	no_dlg.js  0%  100%  
+	  Mais Recente		    2012	pl_dlg.js  0%  100%  
+	  Mais Recente		    1962	pt_dlg.js  0%  100%  
+	  Mais Recente		    2727	ru_dlg.js  0%  100%  
+	  Mais Recente		    1846	sv_dlg.js  0%  100%  
+	  Mais Recente		    2326	zh_dlg.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\
+	  Mais Recente		     991	dialog.htm  0%  100%  
+	  Mais Recente		    6151	editor_plugin_src.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Img\
+	  Mais Recente		     603	insMacro.gif  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Js\
+	  Mais Recente		     609	dialog.js  0%  100%  
+	                  14	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Langs\
+	  Mais Recente		      69	en.js  0%  100%  
+	  Mais Recente		      82	en_dlg.js  0%  100%  
+	  Mais Recente		      72	en_us.js  0%  100%  
+	  Mais Recente		      85	en_us_dlg.js  0%  100%  
+	  Mais Recente		      79	he.js  0%  100%  
+	  Mais Recente		      82	he_dlg.js  0%  100%  
+	  Mais Recente		      75	ja.js  0%  100%  
+	  Mais Recente		      90	ja_dlg.js  0%  100%  
+	  Mais Recente		      86	ru.js  0%  100%  
+	  Mais Recente		      81	ru_dlg.js  0%  100%  
+	  Mais Recente		      69	sv.js  0%  100%  
+	  Mais Recente		      92	sv_dlg.js  0%  100%  
+	  Mais Recente		      66	zh.js  0%  100%  
+	  Mais Recente		      72	zh_dlg.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracopaste\
+	  Mais Recente		    1753	editor_plugin_src.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoshortcut\
+	  Mais Recente		    1255	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualblocks\
+	  Mais Recente		     958	editor_plugin.js  0%  100%  
+	  Mais Recente		    1712	editor_plugin_src.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualblocks\Css\
+	  Mais Recente		    3040	visualblocks.css  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualchars\
+	  Mais Recente		    1368	editor_plugin.js  0%  100%  
+	  Mais Recente		    2195	editor_plugin_src.js  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Wordcount\
+	  Mais Recente		    1960	editor_plugin.js  0%  100%  
+	  Mais Recente		    3331	editor_plugin_src.js  0%  100%  
+	                   8	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\
+	  Mais Recente		    6243	abbr.htm  0%  100%  
+	  Mais Recente		    6258	acronym.htm  0%  100%  
+	  Mais Recente		    6232	attributes.htm  0%  100%  
+	  Mais Recente		    6243	cite.htm  0%  100%  
+	  Mais Recente		    7294	del.htm  0%  100%  
+	  Mais Recente		    2756	editor_plugin.js  0%  100%  
+	  Mais Recente		    4098	editor_plugin_src.js  0%  100%  
+	  Mais Recente		    7299	ins.htm  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Css\
+	  Mais Recente		     197	attributes.css  0%  100%  
+	  Mais Recente		     514	popup.css  0%  100%  
+	                   7	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Js\
+	  Mais Recente		     541	abbr.js  0%  100%  
+	  Mais Recente		     559	acronym.js  0%  100%  
+	  Mais Recente		    3471	attributes.js  0%  100%  
+	  Mais Recente		     541	cite.js  0%  100%  
+	  Mais Recente		    1356	del.js  0%  100%  
+	  Mais Recente		    7159	element_common.js  0%  100%  
+	  Mais Recente		    1356	ins.js  0%  100%  
+	                  16	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Langs\
+	  Mais Recente		    1194	da_dlg.js  0%  100%  
+	  Mais Recente		    1141	de_dlg.js  0%  100%  
+	  Mais Recente		    1092	en_dlg.js  0%  100%  
+	  Mais Recente		    1095	en_us_dlg.js  0%  100%  
+	  Mais Recente		    1214	fi_dlg.js  0%  100%  
+	  Mais Recente		    1195	fr_dlg.js  0%  100%  
+	  Mais Recente		    2222	he_dlg.js  0%  100%  
+	  Mais Recente		    1181	it_dlg.js  0%  100%  
+	  Mais Recente		    1531	ja_dlg.js  0%  100%  
+	  Mais Recente		    1149	nl_dlg.js  0%  100%  
+	  Mais Recente		    1147	no_dlg.js  0%  100%  
+	  Mais Recente		    1159	pl_dlg.js  0%  100%  
+	  Mais Recente		    1140	pt_dlg.js  0%  100%  
+	  Mais Recente		    2564	ru_dlg.js  0%  100%  
+	  Mais Recente		    1157	sv_dlg.js  0%  100%  
+	  Mais Recente		    1372	zh_dlg.js  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\
+	                  10	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\
+	  Mais Recente		    2701	about.htm  0%  100%  
+	  Mais Recente		    1167	anchor.htm  0%  100%  
+	  Mais Recente		    2251	charmap.htm  0%  100%  
+	  Mais Recente		    3317	color_picker.htm  0%  100%  
+	  Mais Recente		   26734	editor_template.js  0%  100%  
+	  Mais Recente		   43419	editor_template_src.js  0%  100%  
+	  Mais Recente		    4038	image.htm  0%  100%  
+	  Mais Recente		    2527	link.htm  0%  100%  
+	  Mais Recente		    1732	shortcuts.htm  0%  100%  
+	  Mais Recente		    1269	source_editor.htm  0%  100%  
+	                  11	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Img\
+	  Mais Recente		    2584	colorpicker.jpg  0%  100%  
+	  Mais Recente		     239	flash.gif  0%  100%  
+	  Mais Recente		   11982	icons.gif  0%  100%  
+	  Mais Recente		     600	iframe.gif  0%  100%  
+	  Mais Recente		     325	pagebreak.gif  0%  100%  
+	  Mais Recente		     301	quicktime.gif  0%  100%  
+	  Mais Recente		     439	realmedia.gif  0%  100%  
+	  Mais Recente		     384	shockwave.gif  0%  100%  
+	  Mais Recente		      43	trans.gif  0%  100%  
+	  Mais Recente		     597	video.gif  0%  100%  
+	  Mais Recente		     415	windowsmedia.gif  0%  100%  
+	                   7	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Js\
+	  Mais Recente		    2203	about.js  0%  100%  
+	  Mais Recente		    1498	anchor.js  0%  100%  
+	  Mais Recente		   15793	charmap.js  0%  100%  
+	  Mais Recente		   14559	color_picker.js  0%  100%  
+	  Mais Recente		    6391	image.js  0%  100%  
+	  Mais Recente		    4947	link.js  0%  100%  
+	  Mais Recente		    1694	source_editor.js  0%  100%  
+	                  28	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Langs\
+	  Mais Recente		    2547	da.js  0%  100%  
+	  Mais Recente		    2201	da_dlg.js  0%  100%  
+	  Mais Recente		    2623	de.js  0%  100%  
+	  Mais Recente		    2152	de_dlg.js  0%  100%  
+	  Mais Recente		    2341	en.js  0%  100%  
+	  Mais Recente		    1981	en_dlg.js  0%  100%  
+	  Mais Recente		    2767	fi.js  0%  100%  
+	  Mais Recente		    2287	fi_dlg.js  0%  100%  
+	  Mais Recente		    2782	fr.js  0%  100%  
+	  Mais Recente		    2341	fr_dlg.js  0%  100%  
+	  Mais Recente		    5268	he.js  0%  100%  
+	  Mais Recente		    4766	he_dlg.js  0%  100%  
+	  Mais Recente		    2771	it.js  0%  100%  
+	  Mais Recente		    2120	it_dlg.js  0%  100%  
+	  Mais Recente		    3775	ja.js  0%  100%  
+	  Mais Recente		    3416	ja_dlg.js  0%  100%  
+	  Mais Recente		    2329	nl.js  0%  100%  
+	  Mais Recente		    2040	nl_dlg.js  0%  100%  
+	  Mais Recente		    2400	no.js  0%  100%  
+	  Mais Recente		    2124	no_dlg.js  0%  100%  
+	  Mais Recente		    2869	pl.js  0%  100%  
+	  Mais Recente		    2298	pl_dlg.js  0%  100%  
+	  Mais Recente		    2714	pt.js  0%  100%  
+	  Mais Recente		    2217	pt_dlg.js  0%  100%  
+	  Mais Recente		    2502	sv.js  0%  100%  
+	  Mais Recente		    2205	sv_dlg.js  0%  100%  
+	  Mais Recente		    3059	zh.js  0%  100%  
+	  Mais Recente		    2544	zh_dlg.js  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Default\
+	  Mais Recente		    2607	content.css  0%  100%  
+	  Mais Recente		    5761	dialog.css  0%  100%  
+	  Mais Recente		   15959	ui.css  0%  100%  
+	                   6	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Default\Img\
+	  Mais Recente		    3133	buttons.png  0%  100%  
+	  Mais Recente		      64	items.gif  0%  100%  
+	  Mais Recente		      68	menu_arrow.gif  0%  100%  
+	  Mais Recente		      70	menu_check.gif  0%  100%  
+	  Mais Recente		    1787	progress.gif  0%  100%  
+	  Mais Recente		    1322	tabs.gif  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Highcontrast\
+	  Mais Recente		    1122	content.css  0%  100%  
+	  Mais Recente		    5219	dialog.css  0%  100%  
+	  Mais Recente		    8886	ui.css  0%  100%  
+	                   5	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\O2k7\
+	  Mais Recente		    2331	content.css  0%  100%  
+	  Mais Recente		    5849	dialog.css  0%  100%  
+	  Mais Recente		   15405	ui.css  0%  100%  
+	  Mais Recente		    1695	ui_black.css  0%  100%  
+	  Mais Recente		     860	ui_silver.css  0%  100%  
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\O2k7\Img\
+	  Mais Recente		    2766	button_bg.png  0%  100%  
+	  Mais Recente		     651	button_bg_black.png  0%  100%  
+	  Mais Recente		    2084	button_bg_silver.png  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\
+	  Mais Recente		    2226	editor_template.js  0%  100%  
+	  Mais Recente		    3205	editor_template_src.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Img\
+	  Mais Recente		     806	icons.gif  0%  100%  
+	                  14	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Langs\
+	  Mais Recente		     359	da.js  0%  100%  
+	  Mais Recente		     355	de.js  0%  100%  
+	  Mais Recente		     347	en.js  0%  100%  
+	  Mais Recente		     376	fi.js  0%  100%  
+	  Mais Recente		     349	fr.js  0%  100%  
+	  Mais Recente		     539	he.js  0%  100%  
+	  Mais Recente		     345	it.js  0%  100%  
+	  Mais Recente		     487	ja.js  0%  100%  
+	  Mais Recente		     326	nl.js  0%  100%  
+	  Mais Recente		     309	no.js  0%  100%  
+	  Mais Recente		     382	pl.js  0%  100%  
+	  Mais Recente		     351	pt.js  0%  100%  
+	  Mais Recente		     347	sv.js  0%  100%  
+	  Mais Recente		     401	zh.js  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\Default\
+	  Mais Recente		     513	content.css  0%  100%  
+	  Mais Recente		    2105	ui.css  0%  100%  
+	                   2	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\O2k7\
+	  Mais Recente		     461	content.css  0%  100%  
+	  Mais Recente		    2340	ui.css  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\O2k7\Img\
+	  Mais Recente		    5102	button_bg.png  0%  100%  
+	                   9	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\
+	  Mais Recente		    2682	about.htm  0%  100%  
+	  Mais Recente		    1091	anchor.htm  0%  100%  
+	  Mais Recente		    2339	charmap.htm  0%  100%  
+	  Mais Recente		    3333	color_picker.htm  0%  100%  
+	  Mais Recente		   43516	editor_template_src.js  0%  100%  
+	  Mais Recente		    4046	image.htm  0%  100%  
+	  Mais Recente		    2547	link.htm  0%  100%  
+	  Mais Recente		    1730	shortcuts.htm  0%  100%  
+	  Mais Recente		    1382	source_editor.htm  0%  100%  
+	                  11	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Img\
+	  Mais Recente		    2584	colorpicker.jpg  0%  100%  
+	  Mais Recente		     239	flash.gif  0%  100%  
+	  Mais Recente		   11982	icons.gif  0%  100%  
+	  Mais Recente		     600	iframe.gif  0%  100%  
+	  Mais Recente		     325	pagebreak.gif  0%  100%  
+	  Mais Recente		     301	quicktime.gif  0%  100%  
+	  Mais Recente		     439	realmedia.gif  0%  100%  
+	  Mais Recente		     384	shockwave.gif  0%  100%  
+	  Mais Recente		      43	trans.gif  0%  100%  
+	  Mais Recente		     597	video.gif  0%  100%  
+	  Mais Recente		     415	windowsmedia.gif  0%  100%  
+	                   7	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Js\
+	  Mais Recente		    2203	about.js  0%  100%  
+	  Mais Recente		    1193	anchor.js  0%  100%  
+	  Mais Recente		   15793	charmap.js  0%  100%  
+	  Mais Recente		   14559	color_picker.js  0%  100%  
+	  Mais Recente		    6391	image.js  0%  100%  
+	  Mais Recente		    4884	link.js  0%  100%  
+	  Mais Recente		    1694	source_editor.js  0%  100%  
+	                  30	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Langs\
+	  Mais Recente		    2109	da.js  0%  100%  
+	  Mais Recente		    1926	da_dlg.js  0%  100%  
+	  Mais Recente		    2265	de.js  0%  100%  
+	  Mais Recente		    1860	de_dlg.js  0%  100%  
+	  Mais Recente		    2488	en.js  0%  100%  
+	  Mais Recente		    2066	en_dlg.js  0%  100%  
+	  Mais Recente		    2491	en_us.js  0%  100%  
+	  Mais Recente		    2069	en_us_dlg.js  0%  100%  
+	  Mais Recente		    2232	es.js  0%  100%  
+	  Mais Recente		    1998	es_dlg.js  0%  100%  
+	  Mais Recente		    2294	fr.js  0%  100%  
+	  Mais Recente		    1964	fr_dlg.js  0%  100%  
+	  Mais Recente		    2209	he.js  0%  100%  
+	  Mais Recente		    1987	he_dlg.js  0%  100%  
+	  Mais Recente		    2669	it.js  0%  100%  
+	  Mais Recente		    2058	it_dlg.js  0%  100%  
+	  Mais Recente		    2727	ja.js  0%  100%  
+	  Mais Recente		    2429	ja_dlg.js  0%  100%  
+	  Mais Recente		    2823	ko.js  0%  100%  
+	  Mais Recente		    2147	ko_dlg.js  0%  100%  
+	  Mais Recente		    1946	nl.js  0%  100%  
+	  Mais Recente		    1768	nl_dlg.js  0%  100%  
+	  Mais Recente		    1948	no.js  0%  100%  
+	  Mais Recente		    1846	no_dlg.js  0%  100%  
+	  Mais Recente		    3405	ru.js  0%  100%  
+	  Mais Recente		    2725	ru_dlg.js  0%  100%  
+	  Mais Recente		    2012	sv.js  0%  100%  
+	  Mais Recente		    1912	sv_dlg.js  0%  100%  
+	  Mais Recente		    2409	zh.js  0%  100%  
+	  Mais Recente		    2070	zh_dlg.js  0%  100%  
+	                   0	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\
+	                   3	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\Umbraco\
+	  Mais Recente		    1367	content.css  0%  100%  
+	  Mais Recente		    5364	dialog.css  0%  100%  
+	  Mais Recente		   16035	ui.css  0%  100%  
+	                   6	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\Umbraco\Img\
+	  Mais Recente		    4579	buttons.png  0%  100%  
+	  Mais Recente		      70	items.gif  0%  100%  
+	  Mais Recente		      68	menu_arrow.gif  0%  100%  
+	  Mais Recente		      70	menu_check.gif  0%  100%  
+	  Mais Recente		    1787	progress.gif  0%  100%  
+	  Mais Recente		    1326	tabs.gif  0%  100%  
+	                   4	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tinymce3\Utils\
+	  Mais Recente		    2046	editable_selects.js  0%  100%  
+	  Mais Recente		    5991	form_utils.js  0%  100%  
+	  Mais Recente		    4055	mctabs.js  0%  100%  
+	  Mais Recente		    6100	validate.js  0%  100%  
+	                  11	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tree\
+	  Mais Recente		    2638	jquery.tree.checkbox.js  0%  100%  
+	  Mais Recente		    9567	jquery.tree.contextmenu.js  0%  100%  
+	  Mais Recente		  114237	jquery.tree.js  0%  100%  
+	  Mais Recente		     548	jquery.tree.metadata.js  0%  100%  
+	  Mais Recente		    1642	menuIcons.css  0%  100%  
+	  Mais Recente		    1866	NodeDefinition.js  0%  100%  
+	  Mais Recente		   12897	sprites.png  0%  100%  
+	  Mais Recente		    7307	sprites_ie6.gif  0%  100%  
+	  Mais Recente		    2597	treeIcons.css  0%  100%  
+	  Mais Recente		    3662	UmbracoContext.js  0%  100%  
+	  Mais Recente		   55287	UmbracoTree.js  0%  100%  
+	                   5	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tree\Themes\
+	  Mais Recente		      61	marker.gif  0%  100%  
+	  Mais Recente		      62	marker_rtl.gif  0%  100%  
+	  Mais Recente		      52	plus.gif  0%  100%  
+	  Mais Recente		     720	remove.png  0%  100%  
+	  Mais Recente		    3867	rename.png  0%  100%  
+	                   4	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tree\Themes\Default\
+	  Mais Recente		      43	dot_for_ie.gif  0%  100%  
+	  Mais Recente		    6680	icons.png  0%  100%  
+	  Mais Recente		    2435	style.css  0%  100%  
+	  Mais Recente		    1844	throbber.gif  0%  100%  
+	                  21	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Tree\Themes\Umbraco\
+	  Mais Recente		    1600	arrows.png  0%  100%  
+	  Mais Recente		    2910	check_0.png  0%  100%  
+	  Mais Recente		    3197	check_1.png  0%  100%  
+	  Mais Recente		    3283	check_2.png  0%  100%  
+	  Mais Recente		      35	context.gif  0%  100%  
+	  Mais Recente		      54	contextMenuBg.gif  0%  100%  
+	  Mais Recente		    3329	create.png  0%  100%  
+	  Mais Recente		      43	dot.gif  0%  100%  
+	  Mais Recente		    3237	f.png  0%  100%  
+	  Mais Recente		      60	fminus.gif  0%  100%  
+	  Mais Recente		      59	fminus_rtl.gif  0%  100%  
+	  Mais Recente		     108	fplus.gif  0%  100%  
+	  Mais Recente		     108	fplus_rtl.gif  0%  100%  
+	  Mais Recente		    6680	icons.png  0%  100%  
+	  Mais Recente		      55	lastli.gif  0%  100%  
+	  Mais Recente		      54	lastli_rtl.gif  0%  100%  
+	  Mais Recente		      47	li.gif  0%  100%  
+	  Mais Recente		     381	newVersion_overlay.png  0%  100%  
+	  Mais Recente		     282	protect_overlay.gif  0%  100%  
+	  Mais Recente		    5258	style.css  0%  100%  
+	  Mais Recente		    1844	throbber.gif  0%  100%  
+	                  14	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Ui\
+	  Mais Recente		   52012	base2.js  0%  100%  
+	  Mais Recente		    4482	dd.css  0%  100%  
+	  Mais Recente		     138	dd_arrow.gif  0%  100%  
+	  Mais Recente		   13659	default.css  0%  100%  
+	  Mais Recente		    2324	default.js  0%  100%  
+	  Mais Recente		    1423	jquery.alphanumeric.js  0%  100%  
+	  Mais Recente		   51648	jquery.dd.js  0%  100%  
+	  Mais Recente		   94843	jquery.js  0%  100%  
+	  Mais Recente		    3581	jquery.tooltip.min.js  0%  100%  
+	  Mais Recente		  235652	jqueryui.js  0%   55%  100%  
+	  Mais Recente		    1943	jQueryWresize.js  0%  100%  
+	  Mais Recente		    3954	json2.js  0%  100%  
+	  Mais Recente		   41412	knockout.js  0%  100%  
+	  Mais Recente		    8687	knockout.mapping.js  0%  100%  
+	                   1	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Ui\ui-lightness\
+	  Mais Recente		   33967	jquery-ui.custom.css  0%  100%  
+	                  14	C:\Users\rmeneguci\Documents\Testes\Umbraco\TestUmbraco\packages\UmbracoCms.7.4.3\UmbracoFiles\Umbraco_Client\Ui\ui-lightness\images\
+	  Mais Recente		     260	ui-bg_diagonals-thick_18_b81900_40x40.png  0%  100%  
+	  Mais Recente		     251	ui-bg_diagonals-thick_20_666666_40x40.png  0%  100%  
+	  Mais Recente		     178	ui-bg_flat_10_000000_40x100.png  0%  100%  
+	  Mais Recente		     104	ui-bg_glass_100_f6f6f6_1x400.png  0%  100%  
+	  Mais Recente		     125	ui-bg_glass_100_fdf5ce_1x400.png  0%  100%  
+	  Mais Recente		     105	ui-bg_glass_65_ffffff_1x400.png  0%  100%  
+	  Mais Recente		    3762	ui-bg_gloss-wave_35_f6a828_500x100.png  0%  100%  
+	  Mais Recente		      90	ui-bg_highlight-soft_100_eeeeee_1x100.png  0%  100%  
+	  Mais Recente		     129	ui-bg_highlight-soft_75_ffe45c_1x100.png  0%  100%  
+	  Mais Recente		    4369	ui-icons_222222_256x240.png  0%  100%  
+	  Mais Recente		    4369	ui-icons_228ef1_256x240.png  0%  100%  
+	  Mais Recente		    4369	ui-icons_ef8c08_256x240.png  0%  100%  
+	  Mais Recente		    4369	ui-icons_ffd27a_256x240.png  0%  100%  
+	  Mais Recente		    4369	ui-icons_ffffff_256x240.png  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:       204         0       204         0         0         0
+ Arquivos:      1000      1000         0         0         0         0
+    Bytes:    6.23 m    6.23 m         0         0         0         0
+N.§ de Vezes:   0:00:02   0:00:02                       0:00:00   0:00:00
+
+
+Velocidade:             3254721 Bytes/s.
+Velocidade:             186.236 MegaBytes/min.
+   Finalizado em: quarta-feira, 8 de junho de 2016 11:02:49
+
